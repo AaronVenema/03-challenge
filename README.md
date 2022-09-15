@@ -1,5 +1,6 @@
 # Password Generator Starter Code
 03-challenege-password generator
+![image](https://user-images.githubusercontent.com/34764586/190527949-ef889cef-3880-4957-87f5-9988437adc42.png)
 
 
 
