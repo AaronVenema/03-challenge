@@ -15,6 +15,7 @@ var symbols= "!@#$%^&*"
 
 function howManyCharacters() {
   while (numOfCharacters<=7 && numOfCharacters<=129){
+    window.alert("You need to select between 8 and 128 characters.");
     numOfCharacters=prompt ("how many characters?");
   }
 }
